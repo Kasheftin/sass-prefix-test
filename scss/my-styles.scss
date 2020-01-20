@@ -1,0 +1,7 @@
+.sis-sidebar {
+  &__link {
+    &.-active &-placeholder {
+      color: #fff;
+    }
+  }
+}
